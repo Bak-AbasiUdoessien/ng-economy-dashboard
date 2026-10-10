@@ -2,7 +2,7 @@
 
 [![tests](https://github.com/Bak-AbasiUdoessien/ng-economy-dashboard/actions/workflows/tests.yml/badge.svg)](https://github.com/Bak-AbasiUdoessien/ng-economy-dashboard/actions/workflows/tests.yml)
 
-**▶ Live app:** _add your Streamlit Cloud link here after deploying (steps below)_
+**▶ Live app: [nigeria-economy.streamlit.app](https://nigeria-economy.streamlit.app/)**
 
 An interactive **Streamlit** dashboard that compares Nigeria with Ghana, Kenya, South Africa and Egypt on inflation, GDP growth, GDP per person, exchange rates, unemployment and remittances. The data comes from World Bank Open Data and is refreshed **every week** by my [ETL pipeline](https://github.com/Bak-AbasiUdoessien/ng-economic-data-pipeline). The two projects work together as one small data platform:
 
