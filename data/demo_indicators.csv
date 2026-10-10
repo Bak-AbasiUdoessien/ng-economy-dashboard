@@ -1,0 +1,751 @@
+country_code,country,indicator_code,indicator,unit,year,value
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2000,7.992
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2001,8.324
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2002,7.983
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2003,8.183
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2004,8.19
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2005,7.837
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2006,8.002
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2007,7.633
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2008,7.714
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2009,7.394
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2010,7.11
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2011,7.176
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2012,7.654
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2013,7.396
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2014,7.251
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2015,7.528
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2016,8.16
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2017,8.413
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2018,8.458
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2019,9.202
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2020,8.79
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2021,9.416
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2022,9.321
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2023,9.034
+NGA,Nigeria,FP.CPI.TOTL.ZG,Inflation,% per year,2024,8.722
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2000,8.611
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2001,8.391
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2002,8.657
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2003,9.002
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2004,9.018
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2005,9.259
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2006,8.866
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2007,8.486
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2008,8.3
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2009,8.679
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2010,8.763
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2011,8.706
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2012,8.986
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2013,9.106
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2014,9.028
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2015,9.588
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2016,10.052
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2017,9.886
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2018,10.189
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2019,10.429
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2020,11.196
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2021,11.787
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2022,11.666
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2023,12.699
+GHA,Ghana,FP.CPI.TOTL.ZG,Inflation,% per year,2024,12.26
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2000,9.702
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2001,9.414
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2002,9.587
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2003,9.148
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2004,9.551
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2005,10.103
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2006,10.41
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2007,11.177
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2008,11.103
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2009,11.635
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2010,12.024
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2011,12.402
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2012,12.572
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2013,13.434
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2014,14.556
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2015,14.793
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2016,15.436
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2017,14.776
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2018,15.497
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2019,16.132
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2020,17.591
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2021,18.751
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2022,18.549
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2023,18.618
+KEN,Kenya,FP.CPI.TOTL.ZG,Inflation,% per year,2024,19.439
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2000,5.302
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2001,5.156
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2002,4.977
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2003,4.764
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2004,5.041
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2005,4.875
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2006,4.797
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2007,4.818
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2008,5.17
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2009,4.964
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2010,5.027
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2011,5.163
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2012,5.549
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2013,5.913
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2014,6.339
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2015,6.265
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2016,6.315
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2017,6.313
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2018,6.786
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2019,7.365
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2020,7.146
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2021,6.958
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2022,6.831
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2023,6.707
+ZAF,South Africa,FP.CPI.TOTL.ZG,Inflation,% per year,2024,6.827
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2000,10.74
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2001,10.194
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2002,10.28
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2003,10.294
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2004,10.597
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2005,11.495
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2006,12.037
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2007,12.305
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2008,12.758
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2009,13.334
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2010,12.751
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2011,13.734
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2012,14.557
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2013,15.627
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2014,16.604
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2015,16.681
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2016,16.774
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2017,16.16
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2018,16.793
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2019,16.079
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2020,15.407
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2021,15.075
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2022,14.649
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2023,14.608
+EGY,Egypt,FP.CPI.TOTL.ZG,Inflation,% per year,2024,13.967
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2000,2.331
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2001,2.157
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2002,2.074
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2003,1.897
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2004,1.957
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2005,1.948
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2006,1.815
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2007,1.717
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2008,1.647
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2009,1.583
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2010,1.47
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2011,1.511
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2012,1.583
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2013,1.544
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2014,1.509
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2015,1.394
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2016,1.29
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2017,1.236
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2018,1.171
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2019,1.201
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2020,1.121
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2021,1.025
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2022,1.068
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2023,1.051
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2024,0.979
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2000,4.773
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2001,4.696
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2002,4.91
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2003,5.057
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2004,5.092
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2005,4.823
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2006,4.639
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2007,4.334
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2008,4.409
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2009,4.34
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2010,4.42
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2011,4.228
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2012,3.983
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2013,4.073
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2014,4.263
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2015,4.384
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2016,4.48
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2017,4.587
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2018,4.646
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2019,4.379
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2020,4.302
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2021,4.13
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2022,3.781
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2023,3.46
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2024,3.286
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2000,3.82
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2001,3.983
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2002,3.875
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2003,4.029
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2004,4.219
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2005,4.398
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2006,4.228
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2007,3.981
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2008,3.752
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2009,3.521
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2010,3.308
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2011,3.298
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2012,3.413
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2013,3.504
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2014,3.425
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2015,3.428
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2016,3.5
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2017,3.231
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2018,3.237
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2019,3.355
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2020,3.418
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2021,3.466
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2022,3.387
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2023,3.17
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2024,3.232
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2000,4.251
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2001,4.441
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2002,4.289
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2003,4.145
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2004,4.316
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2005,4.363
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2006,4.078
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2007,3.788
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2008,3.531
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2009,3.656
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2010,3.737
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2011,3.481
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2012,3.567
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2013,3.731
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2014,3.737
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2015,3.585
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2016,3.538
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2017,3.288
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2018,3.003
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2019,3.137
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2020,3.139
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2021,3.087
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2022,3.209
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2023,3.116
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2024,3.212
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2000,6.235
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2001,5.898
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2002,5.613
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2003,5.301
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2004,5.258
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2005,4.979
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2006,4.824
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2007,4.483
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2008,4.646
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2009,4.46
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2010,4.345
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2011,4.308
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2012,4.46
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2013,4.323
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2014,4.484
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2015,4.395
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2016,4.327
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2017,4.254
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2018,3.888
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2019,3.778
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2020,3.539
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2021,3.227
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2022,3.295
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2023,3.081
+EGY,Egypt,NY.GDP.MKTP.KD.ZG,GDP growth,% per year,2024,3.008
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2000,1926.413
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2001,1954.66
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2002,2038.069
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2003,2136.044
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2004,2309.896
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2005,2269.818
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2006,2380.538
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2007,2388.586
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2008,2406.546
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2009,2598.207
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2010,2705.053
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2011,2837.568
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2012,3058.487
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2013,3364.513
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2014,3471.293
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2015,3667.018
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2016,3816.664
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2017,3976.089
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2018,4246.708
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2019,4387.111
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2020,4583.857
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2021,4752.552
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2022,5248.16
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2023,5610.316
+NGA,Nigeria,NY.GDP.PCAP.CD,GDP per person,current US$,2024,6142.306
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2000,2174.08
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2001,2279.882
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2002,2518.22
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2003,2743.611
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2004,2708.401
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2005,2667.527
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2006,2751.747
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2007,2690.556
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2008,2696.574
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2009,2636.835
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2010,2807.373
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2011,3035.728
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2012,3332.644
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2013,3298.275
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2014,3533.993
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2015,3757.813
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2016,3712.786
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2017,4068.25
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2018,4507.924
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2019,4504.191
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2020,4981.116
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2021,5106.571
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2022,5301.362
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2023,5891.538
+GHA,Ghana,NY.GDP.PCAP.CD,GDP per person,current US$,2024,6412.373
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2000,1021.994
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2001,1065.196
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2002,1082.852
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2003,1078.196
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2004,1092.835
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2005,1171.897
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2006,1136.783
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2007,1191.2
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2008,1228.522
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2009,1191.46
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2010,1209.888
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2011,1280.114
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2012,1333.604
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2013,1302.345
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2014,1446.421
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2015,1565.007
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2016,1735.091
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2017,1704.65
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2018,1714.65
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2019,1668.293
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2020,1802.794
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2021,1814.651
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2022,1789.36
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2023,1840.68
+KEN,Kenya,NY.GDP.PCAP.CD,GDP per person,current US$,2024,2024.567
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2000,1988.071
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2001,1966.099
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2002,2164.736
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2003,2273.576
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2004,2430.864
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2005,2382.795
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2006,2324.598
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2007,2481.282
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2008,2553.552
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2009,2496.719
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2010,2755.938
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2011,2920.121
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2012,3165.169
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2013,3099.944
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2014,3384.726
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2015,3306.54
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2016,3613.453
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2017,3733.671
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2018,3795.577
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2019,3976.725
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2020,4382.84
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2021,4410.016
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2022,4348.342
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2023,4539.316
+ZAF,South Africa,NY.GDP.PCAP.CD,GDP per person,current US$,2024,4548.015
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2000,905.682
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2001,882.619
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2002,879.598
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2003,890.704
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2004,901.044
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2005,971.13
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2006,980.276
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2007,1019.5
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2008,1012.468
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2009,1030.412
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2010,999.339
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2011,1003.002
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2012,972.345
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2013,1044.237
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2014,1093.768
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2015,1088.064
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2016,1127.588
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2017,1244.049
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2018,1222.496
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2019,1328.162
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2020,1368.173
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2021,1421.904
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2022,1548.055
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2023,1585.879
+EGY,Egypt,NY.GDP.PCAP.CD,GDP per person,current US$,2024,1650.858
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2000,136.94
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2001,144.638
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2002,163.476
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2003,181.664
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2004,199.932
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2005,213.046
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2006,225.179
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2007,228.022
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2008,233.501
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2009,237.025
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2010,264.62
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2011,276.011
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2012,284.038
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2013,288.916
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2014,326.937
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2015,371.409
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2016,410.699
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2017,430.013
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2018,447.654
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2019,469.459
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2020,504.138
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2021,518.364
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2022,555.587
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2023,580.145
+NGA,Nigeria,PA.NUS.FCRF,Official exchange rate,local currency per US$,2024,667.064
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2000,160.091
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2001,166.713
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2002,191.788
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2003,201.608
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2004,213.365
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2005,214.338
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2006,227.649
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2007,244.988
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2008,264.69
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2009,273.898
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2010,296.006
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2011,297.53
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2012,310.723
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2013,316.307
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2014,336.805
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2015,340.409
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2016,343.065
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2017,360.356
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2018,374.626
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2019,409.444
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2020,444.007
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2021,496.347
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2022,547.878
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2023,609.601
+GHA,Ghana,PA.NUS.FCRF,Official exchange rate,local currency per US$,2024,693.311
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2000,93.729
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2001,108.097
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2002,111.016
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2003,123.66
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2004,136.23
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2005,137.732
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2006,155.732
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2007,177.42
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2008,195.029
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2009,217.528
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2010,245.199
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2011,251.442
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2012,272.461
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2013,294.438
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2014,332.904
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2015,374.873
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2016,423.363
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2017,462.613
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2018,527.1
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2019,583.844
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2020,647.618
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2021,672.983
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2022,679.115
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2023,695.77
+KEN,Kenya,PA.NUS.FCRF,Official exchange rate,local currency per US$,2024,736.777
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2000,68.403
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2001,74.48
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2002,81.877
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2003,89.99
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2004,99.648
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2005,107.458
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2006,107.985
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2007,121.484
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2008,135.763
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2009,146.685
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2010,159.201
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2011,175.771
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2012,178.3
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2013,198.947
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2014,207.409
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2015,210.656
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2016,220.042
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2017,245.275
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2018,253.965
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2019,283.491
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2020,326.562
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2021,352.389
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2022,374.322
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2023,403.08
+ZAF,South Africa,PA.NUS.FCRF,Official exchange rate,local currency per US$,2024,446.522
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2000,139.074
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2001,153.201
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2002,155.67
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2003,159.825
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2004,166.665
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2005,186.127
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2006,195.513
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2007,213.157
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2008,214.497
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2009,217.408
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2010,227.2
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2011,251.285
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2012,278.689
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2013,308.388
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2014,323.307
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2015,349.98
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2016,376.109
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2017,404.283
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2018,413.306
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2019,470.971
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2020,487.232
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2021,561.434
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2022,643.382
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2023,647.916
+EGY,Egypt,PA.NUS.FCRF,Official exchange rate,local currency per US$,2024,695.73
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2000,11.364
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2001,11.396
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2002,11.137
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2003,10.792
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2004,11.58
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2005,11.222
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2006,11.463
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2007,10.997
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2008,11.145
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2009,11.969
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2010,11.467
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2011,12.101
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2012,12.237
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2013,13.029
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2014,13.534
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2015,13.155
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2016,14.026
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2017,14.139
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2018,13.331
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2019,12.528
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2020,12.639
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2021,12.677
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2022,12.449
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2023,11.941
+NGA,Nigeria,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2024,11.797
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2000,6.908
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2001,6.49
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2002,6.785
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2003,7.179
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2004,6.865
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2005,7.347
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2006,7.642
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2007,8.152
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2008,7.992
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2009,7.927
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2010,7.886
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2011,8.521
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2012,8.714
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2013,8.63
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2014,8.628
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2015,8.44
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2016,7.985
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2017,7.616
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2018,8.052
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2019,7.889
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2020,8.453
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2021,8.238
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2022,8.048
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2023,8.141
+GHA,Ghana,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2024,7.865
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2000,7.507
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2001,7.99
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2002,8.423
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2003,8.663
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2004,9.256
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2005,9.925
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2006,10.094
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2007,10.508
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2008,9.944
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2009,10.37
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2010,10.401
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2011,10.877
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2012,11.208
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2013,10.981
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2014,10.391
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2015,11.122
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2016,10.647
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2017,10.711
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2018,10.582
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2019,10.385
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2020,10.84
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2021,11.678
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2022,11.399
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2023,11.764
+KEN,Kenya,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2024,11.551
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2000,8.417
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2001,8.105
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2002,7.798
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2003,7.554
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2004,8.063
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2005,8.141
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2006,7.9
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2007,8.433
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2008,9.109
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2009,9.136
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2010,8.761
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2011,8.468
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2012,8.063
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2013,7.963
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2014,7.582
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2015,7.378
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2016,7.2
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2017,7.343
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2018,7.818
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2019,8.173
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2020,8.154
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2021,8.136
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2022,8.245
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2023,8.184
+ZAF,South Africa,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2024,8.078
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2000,4.4
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2001,4.735
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2002,4.532
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2003,4.579
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2004,4.709
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2005,4.998
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2006,4.847
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2007,4.739
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2008,4.617
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2009,4.598
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2010,4.609
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2011,4.951
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2012,5.244
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2013,5.573
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2014,5.252
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2015,4.957
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2016,5.154
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2017,5.494
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2018,5.528
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2019,5.651
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2020,5.308
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2021,5.28
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2022,5.652
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2023,5.968
+EGY,Egypt,SL.UEM.TOTL.ZS,Unemployment,% of labour force,2024,6.328
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2000,3011240275.484
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2001,3017209837.224
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2002,3043488987.863
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2003,3236199837.812
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2004,3517813750.803
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2005,3959359879.496
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2006,4327206255.619
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2007,4681459317.603
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2008,5146311380.622
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2009,5422498659.896
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2010,5789291303.901
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2011,5741058777.476
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2012,6326033139.202
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2013,6454542715.779
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2014,7244037493.662
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2015,7835100659.336
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2016,8077058656.372
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2017,8115750031.133
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2018,8303761296.237
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2019,8969935518.949
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2020,9772471671.927
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2021,9796321294.504
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2022,9759489312.979
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2023,10380450519.083
+NGA,Nigeria,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2024,11130967685.177
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2000,1809874992.129
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2001,1945610978.07
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2002,1921003877.544
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2003,1979682403.068
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2004,2086914848.296
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2005,2354262605.641
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2006,2546029124.761
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2007,2843792490.765
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2008,3003997956.66
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2009,3065999229.483
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2010,3134872193.521
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2011,3537249189.5
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2012,3856912533.703
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2013,3978088385.567
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2014,3934461676.02
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2015,4169542772.214
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2016,4527666252.267
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2017,4745584438.229
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2018,4859368407.647
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2019,5271615303.944
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2020,5920518816.393
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2021,6035702825.349
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2022,5980536849.355
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2023,6195637939.31
+GHA,Ghana,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2024,6494333584.439
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2000,2401071610.745
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2001,2650985540.201
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2002,2904119604.013
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2003,3080469225.435
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2004,3130540522.446
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2005,3536656260.501
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2006,3650036566.243
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2007,4042374131.159
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2008,4123431929.733
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2009,4200383884.307
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2010,4614767958.598
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2011,4751217579.192
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2012,5354935552.743
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2013,5672866033.147
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2014,5750001585.738
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2015,5858914103.207
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2016,6138308818.42
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2017,6657178019.454
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2018,7499951309.432
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2019,7556375282.193
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2020,7890287428.922
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2021,8027591391.775
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2022,9074063101.761
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2023,9136307580.565
+KEN,Kenya,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2024,9076858873.068
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2000,1169751668.853
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2001,1309055106.1
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2002,1462114818.955
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2003,1600337607.937
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2004,1814516268.132
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2005,2039604782.811
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2006,2110296720.884
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2007,2138426995.144
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2008,2405056384.925
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2009,2637269804.566
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2010,2612302832.688
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2011,2832784827.512
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2012,2951725307.926
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2013,3073585307.179
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2014,3181234274.555
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2015,3215968020.547
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2016,3171671326.781
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2017,3258331771.334
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2018,3382010492.652
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2019,3813549624.151
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2020,3829407542.13
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2021,4323009935.045
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2022,4394679046.48
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2023,4564857615.15
+ZAF,South Africa,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2024,5056591038.033
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2000,2776151934.99
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2001,2757023661.391
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2002,2911588101.509
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2003,3031285862.444
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2004,3401874965.577
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2005,3451015342.754
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2006,3588553941.332
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2007,4015282582.116
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2008,3976309675.082
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2009,4162253810.761
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2010,4604596335.108
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2011,5063092253.546
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2012,5021738857.275
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2013,4976404561.583
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2014,4951954807.093
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2015,5557773914.614
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2016,5690833509.946
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2017,6241122096.722
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2018,6984721122.444
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2019,7236994712.142
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2020,7426687169.742
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2021,8376717439.815
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2022,9024737006.311
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2023,9247705724.259
+EGY,Egypt,BX.TRF.PWKR.CD.DT,Remittances received,current US$,2024,10099870198.755
